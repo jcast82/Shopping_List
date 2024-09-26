@@ -1,0 +1,13 @@
+#cart {
+    margin-top: 20px;
+    background-color: forestgreen;
+    color: goldenrod;
+}
+#cart th, #cart td {
+    text-align: center;
+}
+#add-item {
+    background-color: goldenrod;
+    color: forestgreen;
+    border-radius: 40%;
+}
